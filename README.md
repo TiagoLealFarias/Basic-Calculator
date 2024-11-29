@@ -2,6 +2,8 @@
 
 A functional calculator built with **HTML**, **CSS**, and **JavaScript**. This project features a user-friendly interface and basic functionalities for performing mathematical calculations.
 
+https://tiagolealfarias.github.io/Basic-Calculator/
+
 ## 🚀 Features
 
 - Addition, subtraction, multiplication, and division.
